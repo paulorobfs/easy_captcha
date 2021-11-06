@@ -1,4 +1,8 @@
 = EasyCaptcha
+
+Versão do EasyCaptcha para funcionar no Rails >= 5.1.
+Todos os direitos reservados aos Autores do mesmo.
+
 A simple captcha implementation for rails 3 based on rmagick
 
 Tested with Rails 3.2.8

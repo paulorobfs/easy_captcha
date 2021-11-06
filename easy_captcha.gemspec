@@ -17,7 +17,7 @@ Gem::Specification.new do |s|
   ]
   s.files = `git ls-files`.split("\n")
 
-  s.homepage = %q{http://github.com/phatworx/easy_captcha}
+  s.homepage = %q{http://github.com/paulorobfs/easy_captcha}
   s.licenses = [%q{MIT}]
   s.rubygems_version = %q{1.8.15}
   s.summary = %q{Captcha-Plugin for Rails}
